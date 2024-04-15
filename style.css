@@ -1,0 +1,56 @@
+.login{
+    margin-top: 10px;
+    width: 300px;
+    height: auto;
+    background-color: rgb(11, 19, 35);
+    border-radius: 1px;
+    font-size: 14px;
+    padding: 4%;
+    border: 0.1px solid #4f5568;
+    opacity: 0.9;
+
+    
+}
+/* label texto */
+.labels{
+    width: 100%;
+    margin-bottom: 20px;
+    font-weight: 220;
+}
+/* input texto para escrever */
+.preencher-form{
+    font-weight: 220;
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 2px;
+    height: 27px;
+    text-indent: 8px;
+    outline: none;
+}
+.btn-login{
+    height: 28px;
+    width: 100%;
+    margin-left: 17px;
+    background-color: #BFBEBE;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    font-weight: 225;
+}
+.checkbox-form{
+    background-color: #BFBEBE;
+    border: 0;
+    
+}
+
+
+
+
+
+
+/* 
+none: esconder
+block: mostrar 
+   
+   */
+
